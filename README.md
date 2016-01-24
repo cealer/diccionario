@@ -1,1 +1,1 @@
-#diccionario
+#diccionario de Proxies
